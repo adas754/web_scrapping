@@ -1,0 +1,26 @@
+Q: Why do we use Tableau?
+
+A: We use Tableau for data visualization and business intelligence, as it helps to:
+- Connect to various data sources
+- Create interactive dashboards
+- Analyze and visualize data
+- Gain insights and make data-driven decisions
+
+1. What is the difference between a measure and a dimension in Tableau?
+
+A measure is a field that can be aggregated (e.g., Sales, Profit), while a dimension is a  field that provides context (e.g., Region, Product).
+
+2. Provide an example of discrete data in a sales dataset.
+
+Number of products sold or Product categories (e.g., Electronics, Clothing) are examples of discrete data.
+
+4. Can a date field be treated as both discrete and continuous in Tableau? How?
+
+Yes, a date field can be treated as both discrete (e.g., individual dates or date parts like year, month) and continuous (e.g., a continuous date range).
+
+Q: What is the difference between 1D and 2D data structures in pandas?
+
+A: In pandas:
+
+- 1D (Series): A one-dimensional labeled array, similar to a column in a spreadsheet. It has a single column of data with row labels (index).
+- 2D (DataFrame): A two-dimensional labeled data structure, similar to an Excel spreadsheet or a table in a relational database. It has rows and columns, with both row labels (index) and column labels.
